@@ -4,8 +4,7 @@ url: "http://littlesev.github.io"    # the protocol and hostname of your site, e
 baseurl: "/" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-    the one that you love, died a long time ago.
-#  One or more sentences introducing this blog.
+  The one that you loved, died a long time ago.
 
 # Your information
 email: 203326278@qq.com
