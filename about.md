@@ -1,15 +1,9 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
-permalink: /about.html
-ref: about
-order: 0
+permalink: /about/
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+Welcome to this website!
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
-
-
-[Go to the Home Page]({{ '/' | absolute_url }})
+> This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
