@@ -1,21 +1,22 @@
 # Site settings
-title: Another Blog
-url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+title: yanggb's Blog
+url: "http://littlesev.github.io"    # the protocol and hostname of your site, eg. `http://littlesev.github.io`
 baseurl: "/" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+    the one that you love, died a long time ago.
+#  One or more sentences introducing this blog.
 
 # Your information
-email: your_email@example.com
+email: 203326278@qq.com
 author: yanggb
-avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+#avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
+#profile: One sentence introducing yourself.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  Email: "mailto:your_email@example.com"
-  GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
+  Email: "203326278@qq.com"
+  GitHub: "https://github.com/littlesev/littlesev.github.io"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
@@ -29,7 +30,7 @@ header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
     Category: /category/
-    Donate: https://laobubu.net/donate.html
+    #Donate: https://laobubu.net/donate.html
 
 permalink: /archivers/:title
 plugins:
